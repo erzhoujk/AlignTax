@@ -19,9 +19,7 @@
 
 
 # AlignTax Evaluation
-以下是为 **AlignTax** 编写的完整功能展示 Markdown 文档，基于你提供的更新说明和样式要求，整合对齐评估功能的主要特性、安装方法、基本使用方式等内容：
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-org/align-tax/main/assets/logo-dark.svg">
